@@ -36,5 +36,23 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/DELL/.m2/repository/org/springframework/spring-core/6.1.6/spring-core-6.1.6.jar" sourcepath="C:/Users/DELL/.m2/repository/org/springframework/spring-core/6.1.6/spring-core-6.1.6-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-core"/>
+			<attribute name="maven.version" value="6.1.6"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/DELL/.m2/repository/org/springframework/spring-core/5.3.25/spring-core-5.3.25.jar" sourcepath="C:/Users/DELL/.m2/repository/org/springframework/spring-core/5.3.25/spring-core-5.3.25-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-core"/>
+			<attribute name="maven.version" value="5.3.25"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

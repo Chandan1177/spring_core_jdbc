@@ -29,8 +29,8 @@ public class App
         
         //Get student object using studentId
         
-//        Student student = studentService.getStudent(1);
-//        System.out.println(student);
+        Student student = studentService.getStudent(1);
+        System.out.println(student);
         
     }
 }
